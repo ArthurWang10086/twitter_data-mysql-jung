@@ -1,9 +1,4 @@
-import com.essec.dudu.project.twitter.TweetDAO;
-import com.essec.dudu.project.twitter.TweetDO;
-import com.essec.dudu.project.twitter.UserDAO;
-import com.essec.dudu.project.twitter.UserDO;
-
-import java.sql.Date;
+package com.essec.dudu.project.twitter;
 
 /**
  * Created by dudu on 17/10/28.

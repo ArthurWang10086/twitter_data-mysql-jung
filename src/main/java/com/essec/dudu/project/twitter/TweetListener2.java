@@ -36,7 +36,7 @@ public class TweetListener2 implements StatusListener {
 
         try {
             System.out.println(TweetListener2.class.getResource("/").getFile());
-            DetectorFactory.loadProfile("resource/profiles");
+            DetectorFactory.loadProfile("src/resource/profiles");
         } catch (Exception e) {
             System.out.println("Ciao");
             e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
